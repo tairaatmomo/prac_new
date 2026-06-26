@@ -1,6 +1,6 @@
 <div align="center">
 
-# KABOOM 💥
+# why you opened this , twin?
 
 <img src="https://media.giphy.com/media/v1.Y2lk=.../coffee-explosion.gif" width="280" alt="coffee chaos">
 
