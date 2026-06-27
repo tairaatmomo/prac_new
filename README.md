@@ -21,8 +21,7 @@ Built while surviving on **15 cups of black coffee** 😭✌🏻
 
 ##  What's Inside ts
 
-- TypeScript Core — Clean, strongly typed chaos
-- Python Integration — Calling Python scripts from TS like a mad scientist
+- Python Integration — Calling Python scripts from TF like a mad scientist
 - Data Structures — Custom implementations that actually make sense (surprisingly)
 - Worst UI — Obsessively designed interfaces with no sleep and Figma
 - Future AI Experiments— Wild ideas I'm slowly bringing to life
