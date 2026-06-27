@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lk=.../coffee-explosion.gif" width="280" alt="coffee chaos">
 
-**A chaotic TypeScript playground** where I threw together:
+**Anyways... this is a chaotic TypeScript playground** where I threw together:
 
 **Python** • **Data Structures** • **UI Design** • **Future AI Ideas**
 
